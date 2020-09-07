@@ -1,0 +1,12 @@
+*.pdf
+*.psd
+_materials/
+node_modules/
+npm-debug.*
+Thumbs.db
+*.code-workspace
+.stylelintrc
+
+index_flex.html
+
+stylesheet.txt
